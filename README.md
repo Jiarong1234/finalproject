@@ -14,20 +14,14 @@ This project is to build a game named My snake. This puzzle game is very simple,
  
  * Welcome interface
  
- * Submit the username
- 
- * Record the highest score
- 
  * Graphic user interface
  
  * Keep running the game
  
- * Voice prompt
+ * Game Background
  
  
  **TODO:**
- 
- * Create a login/username submit interface
  
  * Design the logical structure of the game:
 
@@ -36,9 +30,11 @@ This project is to build a game named My snake. This puzzle game is very simple,
    * When the snake touch the eggs, the length of the snake will extend.
    * When the length extend the score will increase
    
-* Add feature: Voice prompt
+* Add feature: Game background
 
 * Add feature: Record the highest score
+
+* Record a video on screen to demonstrate how this program( Snake game ) work as the test.
  
  **Logic:**
  
